@@ -13,8 +13,18 @@ This repository contains:
 - `10-06_text-formatting-heading` – Headings, Paragraphs, and Formatting Tags  
 - `11-06_link-audio-video-img` – Working with Links, Images, Audio & Video
 
-▶️ **Watch the full YouTube playlist here:**  
-[HTML Course in Hindi – Technical Facty](https://youtube.com/playlist?list=PL3TlCoIgR61XDZyD0na-_lCwqCN0_-F5Y&si=PWALsu8NwS88TLyW)
+🔗 Connect with Me & Access Free Resources:
+📂 Source Code (GitHub):
+→ https://github.com/TechnicalFacty/Web-dev
+
+📺 Full Playlist (Start from Day 1):
+→ https://youtube.com/playlist?list=PL3TlCoIgR61XDZyD0na-_lCwqCN0_-F5Y&si=Ib1U7O1YxxabTOwc
+
+📸 Instagram (Reels, Tips, Behind the Scenes):
+→ https://instagram.com/technical_facty
+
+👥 Reddit Community (Ask Doubts, Get Feedback):
+→ https://reddit.com/r/technical_facty
 
 ---
 
