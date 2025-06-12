@@ -9,9 +9,10 @@ This repository contains:
 
 ## 📅 Playlist Structure
 
-- `09-06_structure` – Basic HTML Page Structure  
-- `10-06_text-formatting-heading` – Headings, Paragraphs, and Formatting Tags  
-- `11-06_link-audio-video-img` – Working with Links, Images, Audio & Video
+- `09-06_HTML_Web` - Image with Html and a sample tag & Web's working shown in flowchart
+- `10-06_structure` – Basic HTML Page Structure
+- `11-06_heading_paragraph_text-formatting-heading` – Headings, Paragraphs, and Formatting Tags
+- `12-06_link-audio-video-img` – Working with Links, Images, Audio & Video
 
 🔗 Connect with Me & Access Free Resources:
 📂 Source Code (GitHub):
