@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h2{
+    color: blueviolet;
+    background-color: aquamarine;
+    width: 50%;
+}
+body{
+    background-color: red;
+}
