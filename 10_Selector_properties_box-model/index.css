@@ -1,0 +1,52 @@
+/* element selector */
+h1{
+    color: red;
+}
+
+/* class selector */
+.he{
+    background-color: blue;
+}
+
+/* id selector */
+#H{
+    background-color: brown;
+}
+
+/* group selector */
+p, h2, h3{
+    color: blueviolet;
+}
+
+/* universal selector */
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* desetant selector */
+div>p{
+    color: rgb(83, 83, 4);
+
+}
+
+/* css properties */
+/* 
+color
+background color
+font size
+margin
+padding
+border
+width
+height
+text alignment:- justify centre
+*/
+
+/* box model */
+section{
+    border: 1px red solid;
+    width: 10%;
+    margin: 20px;
+    padding: 20px;
+}
