@@ -1,0 +1,14 @@
+.container{
+    background-color: yellow;
+    border: 1px solid black;
+    display: flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+}
+.box{
+    background-color: red;
+    border: 1px solid green;
+    font-size: larger;
+    width: 200px;
+    height: 200px;
+}
