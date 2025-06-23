@@ -1,0 +1,23 @@
+/* px % em rem vh vw
+
+absolute
+px
+relative
+% em rem vh vw
+
+em relative to the font size of the parent element
+
+rem root element (html;16px)
+vh/vw veiwport width & viewport height
+*/
+/* 1000px 1vh 10px */
+.container{
+    height: 400px;
+    width: 600px;
+    font-size: 26px;
+}
+.box{
+    height: 40%;
+    /* width: 2em;52px */
+    /* 2rem-32px */
+}
