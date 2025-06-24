@@ -1,0 +1,13 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px 2px 5px rgb(251, 255, 0);
+    box-shadow: 4px 4px 10px red;
+    /* color: rgba(255, 0, 0, 0.829); */
+    color: red;
+    /* color: #ffff; hex */
+    /* color: hsl(21, 76%, 63%); */
+}
+body{
+    background: linear-gradient(100deg, #fff, #00ff);
+    /* background: radial-gradient(circle, #fff, #00ff, #000); */
+}
