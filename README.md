@@ -25,6 +25,7 @@ This repository contains:
 - `13_Grid` - CSS Grid
 - `14_Units` - Units in CSS
 - `15_Colors, Gradients, Fonts & Shadows` - CSS Colors, Gradients, Fornts & Shadows their use and syntax
+- `16_CSS -Transitions-Animations-Keyframes` - CSS Transitions, Animations & Keyframes
 
 🔗 Connect with Me & Access Free Resources:
 📂 Source Code (GitHub):
