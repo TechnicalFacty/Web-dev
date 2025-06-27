@@ -26,6 +26,8 @@ This repository contains:
 - `14_Units` - Units in CSS
 - `15_Colors, Gradients, Fonts & Shadows` - CSS Colors, Gradients, Fornts & Shadows their use and syntax
 - `16_CSS -Transitions-Animations-Keyframes` - CSS Transitions, Animations & Keyframes
+- `17_Responsive design with media query` - Responsive Design with Media Queries
+- `18_Landing page` - Simple Landing Page
 
 🔗 Connect with Me & Access Free Resources:
 📂 Source Code (GitHub):

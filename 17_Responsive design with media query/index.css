@@ -1,0 +1,26 @@
+.box{
+    background-color: red;
+    width: 300px;
+    height: 300px;
+}
+.con{
+    display: flex;
+    gap: 20px;
+}
+@media (max-width:768px) {
+    .con{
+        flex-direction: column;
+    }
+    .box{
+        background-color: blue;
+        width: 100px;
+        height: 100px;
+    }
+}
+/* 
+small phones : 480px
+phones : 600px
+tablets : 768px
+laptops 1024px
+desktops : min - 1025
+*/
