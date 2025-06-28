@@ -29,6 +29,7 @@ This repository contains:
 - `17_Responsive design with media query` - Responsive Design with Media Queries
 - `18_Landing page` - Simple Landing Page
 - `19_About-page` - Creating About Us Page & linking it with landing page
+- `20_Contact-page` - Creating Contact Page and connecting it with other pages
 
 🔗 Connect with Me & Access Free Resources:
 📂 Source Code (GitHub):
