@@ -28,6 +28,7 @@ This repository contains:
 - `16_CSS -Transitions-Animations-Keyframes` - CSS Transitions, Animations & Keyframes
 - `17_Responsive design with media query` - Responsive Design with Media Queries
 - `18_Landing page` - Simple Landing Page
+- `19_About-page` - Creating About Us Page & linking it with landing page
 
 🔗 Connect with Me & Access Free Resources:
 📂 Source Code (GitHub):
