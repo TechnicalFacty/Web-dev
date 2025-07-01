@@ -1,0 +1,168 @@
+/* Base Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: green;
+  font-family: Arial, sans-serif;
+  color: white;
+  line-height: 1.6;
+}
+
+/* Navigation */
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  max-width: 80vw;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(1, 88, 1, 0.8);
+  padding: 0.5rem 1rem;
+  box-shadow: 4px 4px 10px rgba(1, 88, 1, 0.8);
+}
+
+nav > img {
+  width: 5rem;
+  height: auto;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  gap: 1rem;
+}
+
+li > a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.25rem;
+  padding: 0.5rem;
+  transition: background 0.3s;
+}
+
+li > a:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 4px;
+}
+
+/* Main Content */
+main {
+  width: 100%;
+  max-width: 80vw;
+  margin: 4rem auto;
+  text-align: center;
+}
+
+main > h2 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+main > h1 {
+  font-size: 6rem;
+  margin-bottom: 2rem;
+}
+
+main > p {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  text-align: justify;
+}
+
+/* Footer */
+footer {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  max-width: 80vw;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(1, 88, 1, 0.8);
+  padding: 1.5rem;
+  box-shadow: 4px 4px 10px rgba(1, 88, 1, 0.8);
+  color: white;
+  font-size: 1rem;
+}
+
+.ful {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+}
+
+.fa {
+  font-size: 1.25rem;
+  text-decoration: none;
+  color: white;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  nav ul {
+    width: 100%;
+    justify-content: center;
+    margin-top: 0.5rem;
+  }
+
+  nav > img {
+    width: 4rem;
+  }
+
+  li > a {
+    font-size: 1rem;
+  }
+
+  main > h1 {
+    font-size: 4rem;
+  }
+
+  main > h2 {
+    font-size: 2.5rem;
+  }
+
+  main > p {
+    font-size: 1.25rem;
+  }
+
+  footer {
+    flex-direction: column;
+    text-align: center;
+    gap: 0.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  nav {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  nav ul {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  main > h1 {
+    font-size: 3rem;
+  }
+
+  main > h2 {
+    font-size: 2rem;
+  }
+
+  main > p {
+    font-size: 1rem;
+  }
+
+  footer ul {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+}
