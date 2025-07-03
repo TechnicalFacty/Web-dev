@@ -31,6 +31,7 @@ This repository contains:
 - `19_About-page` - Creating About Us Page & linking it with landing page
 - `20_Contact-page` - Creating Contact Page and connecting it with other pages
 - `21_making video responsive` - build simple responsive website
+- `22_intro-to-js` - Inroduction to JavaScript
 
 🔗 Connect with Me & Access Free Resources:
 📂 Source Code (GitHub):
