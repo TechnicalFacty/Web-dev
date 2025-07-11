@@ -33,7 +33,8 @@ This repository contains:
 - `21_making video responsive` - build simple responsive website
 - `22_intro-to-js` - Inroduction to JavaScript
 - `23_js-variable-&-syntax` - Javascript Variables and Syntax
--`24_oprators` - Javascript Operators
+- `24_oprators` - JavaScript Operators
+- `25_datatypes-js` - JavaScript DataTypes
 
 🔗 Connect with Me & Access Free Resources:
 📂 Source Code (GitHub):
