@@ -32,6 +32,8 @@ This repository contains:
 - `20_Contact-page` - Creating Contact Page and connecting it with other pages
 - `21_making video responsive` - build simple responsive website
 - `22_intro-to-js` - Inroduction to JavaScript
+- `23_js-variable-&-syntax` - Javascript Variables and Syntax
+-`24_oprators` - Javascript Operators
 
 🔗 Connect with Me & Access Free Resources:
 📂 Source Code (GitHub):
