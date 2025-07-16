@@ -35,6 +35,8 @@ This repository contains:
 - `23_js-variable-&-syntax` - Javascript Variables and Syntax
 - `24_oprators` - JavaScript Operators
 - `25_datatypes-js` - JavaScript DataTypes
+- `26_Functions` - JavaScript Functions
+- `27_if-else-statements` - JavaScript Condition Statements
 
 🔗 Connect with Me & Access Free Resources:
 📂 Source Code (GitHub):
