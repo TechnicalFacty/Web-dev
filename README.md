@@ -37,6 +37,7 @@ This repository contains:
 - `25_datatypes-js` - JavaScript DataTypes
 - `26_Functions` - JavaScript Functions
 - `27_if-else-statements` - JavaScript Condition Statements
+- `28_Loops-Switch` - JavaScript Loops & Switch
 
 🔗 Connect with Me & Access Free Resources:
 📂 Source Code (GitHub):
