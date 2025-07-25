@@ -1,7 +1,7 @@
 // Global Scope
 let n = "Karan";
-function greet(){
-    console.log("Hello :"+n);
+function greet() {
+    console.log("Hello :" + n);
 }
 greet();
 
@@ -9,8 +9,8 @@ console.log(n);
 
 
 //Function Scope
-function testscope(){
-    let secret ="Hidden";
+function testscope() {
+    let secret = "Hidden";
     console.log(secret);
 }
 testscope();
@@ -19,7 +19,7 @@ testscope();
 
 
 //Block Scope
-if(true){
+if (true) {
     let age = 20;
     console.log(age);
 }
@@ -32,7 +32,7 @@ if(true){
 sayHi();
 
 
-function sayHi(){
+function sayHi() {
     console.log("Hi there!!")
 }
 
@@ -51,4 +51,4 @@ const a = 40;
 
 
 
-//challenge make driving license check for legal age of 30 or more usinfg conditional statements
+//challenge make driving license check for legal age of 30 or more using conditional statements

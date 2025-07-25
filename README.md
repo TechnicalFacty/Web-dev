@@ -39,6 +39,8 @@ This repository contains:
 - `27_if-else-statements` - JavaScript Condition Statements
 - `28_Loops-Switch` - JavaScript Loops & Switch
 - `29_Scope-Hoisting` - Scope & Hoisting JavaScript
+- `30_js-challenge` - Challenge for practice
+- `31_js-challenge-3` - challenge for practice of more js concepts
 
 🔗 Connect with Me & Access Free Resources:
 📂 Source Code (GitHub):
