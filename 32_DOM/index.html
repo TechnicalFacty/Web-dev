@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p id="demo">Hello World</p>
+    <p class="text">Original Text</p>
+    <div class="red">rand background</div>
+
+    <div class="container"></div>
+
+    <div class="box">
+        <p class="remove">REmove this text</p>
+    </div>
+
+    <script>
+        //getelemntbyid
+        document.getElementById("demo").innerHTML = "This is Changed using DOM.";
+        //queryselector
+        document.querySelector(".text").innerHTML = "Updated Text"
+        //change style
+        document.querySelector(".red").style.backgroundColor = "red"
+        //add element
+        let nt = document.createElement("p");
+        nt.innerText = "I'm new text"
+        document.querySelector(".container").appendChild(nt);
+        //remove element
+        let r = document.querySelector(".remove");
+        r.remove();
+    </script>
+</body>
+</html>

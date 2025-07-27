@@ -41,6 +41,7 @@ This repository contains:
 - `29_Scope-Hoisting` - Scope & Hoisting JavaScript
 - `30_js-challenge` - Challenge for practice
 - `31_js-challenge-3` - challenge for practice of more js concepts
+- `32_DOM` -DOM(document object model) manipulation
 
 🔗 Connect with Me & Access Free Resources:
 📂 Source Code (GitHub):
